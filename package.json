@@ -1,0 +1,17 @@
+{
+  "name": "cndt-time-tracker",
+  "version": "1.0.0",
+  "description": "Easing the time tracking",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "moment-timezone": "^0.5.23",
+    "puppeteer": "^1.9.0"
+  }
+}
